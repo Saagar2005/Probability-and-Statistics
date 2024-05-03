@@ -20,4 +20,4 @@ Dhruv Gupta (220361)\
 Pragati Agrawal (220779)\
 Saagar KV (220927)\
 Kundan Kumar (220568)\
-Akula Venkatesh (220109)\
+Akula Venkatesh (220109)
