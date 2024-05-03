@@ -1,0 +1,1 @@
+Consider a generalized Monty Hall Problem where there are n doors, with k of the doors having cars and the remaining doors having goats. The host opens one door. Design a simulation to assess the probability of winning for switching (W) versus sticking (T) to the original decision. Plot a surface plot of n, k versus (P(win|W)/P(win|T)). What can you infer from the plot?
