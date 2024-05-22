@@ -1,4 +1,4 @@
-Instructions to run the code:
+# Instructions to run the code:
 
 1. Extract the files from the zip file.
 2. Open terminal in the unzipped folder, i.e., the folder containg the python file (CS203assignment_5.py).
