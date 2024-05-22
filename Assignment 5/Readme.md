@@ -8,7 +8,6 @@ Case 3) Beta(1,1)\
 Case 4) Beta(2,2)\
 Now, tossing the coin 10 times results in the following outcome: [H, H, H, T, T, T, H, H, H, T]\
 Plot the posterior distribution based on the above observation corresponding to each of the priors. Draw lines for the MLE and MAP estimates on the plots.
-You are allowed to use any language and random sampler. You should submit a single zip package containing the source code and a README file that describes how the code can be run. You can do the project in a team with at most 5 members (including you).
 
 
 # Instructions to run the code:
