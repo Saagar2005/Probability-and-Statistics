@@ -1,5 +1,5 @@
 # CS203 (Probability and Statistics) Assignments
-This repository contains assignment submissions for the course CS203 under Prof. Subhajit Roy in 2023-24-II semester (in groups of five).
+This repository contains assignment submissions for the course CS203 under Prof. Subhajit Roy in 2023-24-II semester (in groups of five). These assignments includes simulations for famous problems such as the Birthday problem and Monty-Hall problem. They also contain simulations pertaining to Bertrand's paradox, Universality of the normal distribution and Bayesian Statistics.
 
 Dhruv Gupta ([dhruvgupta22](https://github.com/dhruvgupta22/))
 
